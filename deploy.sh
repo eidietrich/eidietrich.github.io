@@ -23,4 +23,4 @@ git branch -D gh-pages
 # git push -f prod gh-pages:master
 
 # To set up "prod" remote
-git remote add prod https://github.com/eidietrich/eidietrich.github.io.git
+# git remote add prod https://github.com/eidietrich/eidietrich.github.io.git
