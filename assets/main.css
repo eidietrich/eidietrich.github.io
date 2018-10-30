@@ -5298,8 +5298,8 @@ body {
   background-color: rgba(6, 6, 6, 0.5);
   padding-left: 5vw;
   padding-right: 5vw;
-  padding-top: 2vw;
-  padding-bottom: 2vw; }
+  padding-top: 20px;
+  padding-bottom: 20px; }
 
 .headshot {
   width: 30vw;
@@ -5308,7 +5308,7 @@ body {
   min-height: 150px;
   max-width: 360px;
   flex: 1 0 auto;
-  background-image: url(../assets/eric-mug.jpg);
+  background-image: url(../assets/eric-professional-mug.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% auto; }
@@ -5318,6 +5318,7 @@ body {
   width: 40vw;
   color: white;
   margin-left: 5vw;
+  margin-top: 20px;
   font-family: "Montserrat", "Helvetica Neue", sans-serif; }
 
 .intro-header {
